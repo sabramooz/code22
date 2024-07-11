@@ -2,4 +2,4 @@ Project file B
 
 new change 2
 
-new another change
+Last decision is new change 5
